@@ -1,0 +1,4 @@
+- Hi, I am a cube
+- I am not really a programmer but I do code from time to time
+- Fact: Poland is a country
+- I am lazy
